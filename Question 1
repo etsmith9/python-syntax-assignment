@@ -1,0 +1,15 @@
+#task 1
+weather = "sunny"
+
+if weather == "sunny":
+    print("Wear sunglasses!")
+else:
+    print("Take an umbrella!")
+
+#task2
+feelings = input("how are you feeling today?")
+
+if feelings == ("happy"):
+    print("That's great, me too!")
+if feelings == ("sad"):
+    print("I hope your day gets better!")

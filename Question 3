@@ -1,0 +1,11 @@
+#task1
+
+bread, peanut_butter, jelly = 5, 10, 15
+print(bread + peanut_butter + jelly)
+
+#task2
+
+sav_acct = 10000
+interest_rate = 1.07
+amt_at_year_end = sav_acct*interest_rate
+print(amt_at_year_end)
